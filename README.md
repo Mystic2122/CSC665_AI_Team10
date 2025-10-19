@@ -9,5 +9,5 @@ Our goal is to build and train an AI model that can take in an image of one of t
 ---
 Dataset: https://www.kaggle.com/datasets/lantian773030/pokemonclassification/data
 ### Authors
-Nicholas Wendt
+Nicholas Wendt </ br>
 Hetgar Peralta
