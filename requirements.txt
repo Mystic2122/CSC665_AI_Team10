@@ -1,0 +1,13 @@
+# ML requirements
+tensorflow==2.20.0
+keras==3.11.3
+keras-preprocessing==1.1.2
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebooks requirements
+ipykernel
